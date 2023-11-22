@@ -1,0 +1,3 @@
+[submodule "michelsonInterpreterUiSubmodule"]
+	path = michelsonInterpreterUiSubmodule
+	url = https://github.com/JanLazz/michelson-interpreter-ui.git
